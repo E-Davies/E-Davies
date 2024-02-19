@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @E-Davies
+## 👋 Hi, I’m E-Davies
 
 ## 💻 I work with:
 ![HTML5 Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
