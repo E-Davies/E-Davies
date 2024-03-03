@@ -17,10 +17,10 @@
 Continuing my journey towards becoming a Full Stack developer
  
 ## 🌱 I’m currently learning...
-React and Next.js
+React, SQL and Testing
 
 ## 💞️ I’m looking for...
-Opportunities in Web Development.
+Opportunities in Front End Development.
 
 ## 📫 How to reach me...
 Here!
