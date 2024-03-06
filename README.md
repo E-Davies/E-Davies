@@ -23,7 +23,7 @@ React, SQL and Testing
 Opportunities in Front End Development.
 
 ## 📫 How to reach me...
-Here!
+Via the [contact me form](https://e-davies.github.io/react-portfolio/) on my portfolio.
 
 ## 😄 Pronouns: 
 She/Her
