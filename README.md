@@ -17,11 +17,9 @@
 Continuing my journey towards becoming a Full Stack developer
  
 ## 🌱 I’m currently learning...
-I am about to undertake a 16 week Full Stack course (Aug - Dec '24) where I'll be learning SQL, API building, Testing (Jest), React, TypeScript, Redux & Testing.
-<br>
-I am also learning Vue ![Vue Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-<br>
-Afterwards, I want to learn Python 🐍
+* I am about to undertake a 16 week Full Stack course (Aug - Dec '24) where I'll be learning SQL, API building, Testing (Jest), React, TypeScript, Redux & Testing.
+* I am also learning Vue ![Vue Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+* Afterwards, I want to learn Python 🐍
 
 ## 💞️ I’m looking for...
 Opportunities in Front End Development.
