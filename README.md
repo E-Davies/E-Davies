@@ -14,6 +14,8 @@
 ![Node.js Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest Static Badge](https://img.shields.io/badge/Jest-997781?style=for-the-badge&logo=jest&logoColor=9C4860)
+![SQL Static Badge](https://img.shields.io/badge/SQL-399CDC?style=for-the-badge&logo=scala&logoColor=white)
+![MySQL Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
  ## 👀 I’m interested in...
 Continuing my journey towards becoming a Full Stack developer
@@ -24,7 +26,7 @@ Continuing my journey towards becoming a Full Stack developer
 * Afterwards, I want to learn Python 🐍
 
 ## 💞️ I’m looking for...
-Opportunities in Front End Development.
+Opportunities in Front End pr Full Stack Development.
 
 ## 📫 How to reach me...
 Via the [contact me form](https://e-davies.github.io/react-portfolio/) on my portfolio.
