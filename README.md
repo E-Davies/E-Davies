@@ -13,6 +13,7 @@
 ![Day.js Static Badge](https://img.shields.io/badge/Day.js-FF5F4C?style=for-the-badge&logo=day.js&logoColor=)
 ![Node.js Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js Static Badge](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=282828)
 ![Jest Static Badge](https://img.shields.io/badge/Jest-997781?style=for-the-badge&logo=jest&logoColor=9C4860)
 ![SQL Static Badge](https://img.shields.io/badge/SQL-399CDC?style=for-the-badge&logo=scala&logoColor=white)
 ![MySQL Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
