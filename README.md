@@ -27,7 +27,7 @@ Continuing my journey towards becoming a Full Stack developer
 * Afterwards, I want to learn Python 🐍
 
 ## 💞️ I’m looking for...
-Opportunities in Front End pr Full Stack Development.
+Opportunities in Front End or Full Stack Development.
 
 ## 📫 How to reach me...
 Via the [contact me form](https://e-davies.github.io/react-portfolio/) on my portfolio.
