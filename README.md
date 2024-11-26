@@ -22,12 +22,16 @@
 Continuing my journey towards becoming a Full Stack developer
  
 ## 🌱 I’m currently learning...
-* I am about to undertake a 16 week Full Stack course (Aug - Dec '24) where I'll be learning SQL, API building, Testing (Jest), React, TypeScript, Redux & Testing.
+* I am undertaking a 16 week Full Stack course (Aug - Dec '24) where I'll be learning SQL, API building, Testing (Jest), React, TypeScript, Redux & Testing.
 * I am also learning Vue ![Vue Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 * Afterwards, I want to learn Python 🐍
 
 ## 💞️ I’m looking for...
 Opportunities in Front End or Full Stack Development.
+
+## 👩‍🎓 Certificates / Training 
+* edX - Completed Feb 2024 - 16wk Frontend Web Development Bootcamp certificate - Grade 99.7%
+* In Progress (Aug - Dec '24) - 16wk Full Stack Course - expected grade: Merit
 
 ## 📫 How to reach me...
 Via the [contact me form](https://e-davies.github.io/react-portfolio/) on my portfolio.
