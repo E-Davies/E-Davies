@@ -30,7 +30,8 @@ Continuing my journey towards becoming a Full Stack developer
  
 ## 🌱 I’m currently learning...
 * Kotlin, Kafka & MongoDB
-* I will continue to develop my JS & React skills
+* Building my knowledge of writing tests
+* Continuing to develop my JS & React skills
 
 ## 💞️ I’m looking for...
 Opportunities in Front End or Full Stack Development.
