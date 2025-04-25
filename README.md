@@ -29,7 +29,7 @@
 Continuing my journey towards becoming a Full Stack developer
  
 ## 🌱 I’m currently learning...
-* Kotlin & Kafka 
+* Kotlin, Kafka & MongoDB
 * I will continue to develop my JS & React skills
 
 ## 💞️ I’m looking for...
