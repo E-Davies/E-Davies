@@ -36,6 +36,7 @@ Continuing my journey towards becoming a Full Stack developer
 Opportunities in Front End or Full Stack Development.
 
 ## 👩‍🎓 Certificates / Training 
+* Currently completing a Level 4 Apprenticeship in Software Development (started in May 2025, expected to complete towards the end of 2026)
 * CodeFirstGirls - Completed Dec '24 - 16wk Full Stack Course (CFGDegree) - Grade: Distinction
 * edX - Completed Feb 2024 - 16wk Frontend Web Development Bootcamp certificate - Grade 99.7%
 
